@@ -1,0 +1,16 @@
+.picture{max-width: 100%;
+    height: auto;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+.valid{
+    border: 3px solid #bdbdbd;
+    border-color: #4caf50;
+}
+.unvalid{
+    border: 3px solid #bdbdbd;
+    border-color: #f44336;
+}
